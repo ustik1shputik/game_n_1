@@ -1,0 +1,3 @@
+say ("Hello, World!")
+delete (sys32)
+end
